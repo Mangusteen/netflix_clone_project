@@ -8,3 +8,12 @@ body {
   background-color: #000;
   font-family: 'Lato', sans-serif;
 }
+
+@layer components {
+  .btn-red {
+    @apply bg-red-600 hover:bg-red-700 rounded text-white;
+  }
+  /* .btn-red:hover {
+    @apply bg-red-700;
+  } */
+}

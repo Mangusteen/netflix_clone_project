@@ -1,5 +1,6 @@
 {
-  "name": "netflix_clone",
+  "homepage": "/",
+  "name": "netflix_clone_project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,7 +14,6 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
-    "axios": "^1.7.2",
     "firebase": "^10.12.2",
     "gh-pages": "^6.1.1",
     "react": "^18.2.0",
@@ -27,6 +27,7 @@
     "@types/react-dom": "^18.2.22",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.19",
+    "axios": "^1.7.2",
     "eslint": "^8.57.0",
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-react-hooks": "^4.6.0",
